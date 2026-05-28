@@ -39,6 +39,44 @@ Os exercícios têm como objetivo praticar:
 
 ---
 
+## 📸 Screenshots
+
+### 👋 Olá Mundo Personalizado
+
+![Olá Mundo](assets/ola_mundo.png)
+
+---
+
+### 🔢 Verificador de Par ou Ímpar
+
+![Par ou Ímpar](assets/par_ou_impar.png)
+
+---
+
+### 📖 Tabuada
+
+![Tabuada](assets/tabuada.png)
+
+---
+
+### 🎓 Média de Notas
+
+![Média de Notas](assets/media_notas.png)
+
+---
+
+### 🧮 Calculadora Simples
+
+![Calculadora Simples](assets/calculadora_simples.png)
+
+---
+
+### ⚡ Calculadora usando Funções e Float
+
+![Calculadora Funções](assets/calculadora_funcoes.png)
+
+---
+
 ## ▶️ Como executar os exercícios
 
 1. Clone este repositório
@@ -58,12 +96,21 @@ tabuada.py
 ```text
 python-exercicios-basicos/
 │
-├── ola_mundo_personalizado.py
+├── README.md
+├── ola_mundo.py
 ├── par_ou_impar.py
 ├── tabuada.py
 ├── media_notas.py
 ├── calculadora_simples.py
-└── calculadora_funcoes.py
+├── calculadora_funcoes.py
+│
+└── assets/
+    ├── ola_mundo.png
+    ├── par_ou_impar.png
+    ├── tabuada.png
+    ├── media_notas.png
+    ├── calculadora_simples.png
+    └── calculadora_funcoes.png
 ```
 
 ---
@@ -77,4 +124,4 @@ Este repositório será atualizado conforme novos exercícios e conhecimentos fo
 ## 👨‍💻 Autor
 
 Lucas Santos
-Estudante de Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas
